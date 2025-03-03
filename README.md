@@ -14,7 +14,7 @@ A simple Pong game built using Python and the **Turtle** module. This classic ga
 - If the ball goes past a paddle, the opponent scores a point.  
 
 ## 🖼️ Game Screenshot  
-image.png
+![Pong Game Screenshot](screenshot.png)
 
 
 ## 🚀 Installation & Running  
